@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway');
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('c.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+
+h1, h2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.emotional-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; 
+}
+
+
+.yelling {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold; 
+    color: #FF0000; /* Red color for yelling lyrics */
+}
+
+.sad {
+    color: #3333CC; /* Blue color for sad lyrics */
+    font-style: italic;
+}
+
+.happy {
+    color: #FF6600; /* Orange color for happy lyrics */
+    font-family: 'Open Sans', sans-serif; 
+}
+
+
+
+header {
+    background-color: #f0f0f0; 
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #f0f0f0; 
+    padding: 10px;
+    text-align: center;
+}
+
